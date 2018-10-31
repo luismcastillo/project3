@@ -1,13 +1,16 @@
-@import url('https://fonts.googleapis.com/css?family=Work+Sans');
+@import url('https://fonts.googleapis.com/css?family=Roboto')
 
 body {
   margin: 30px auto;
   max-width: 1000px;
-  font-family:'Work Sans', sans-serif;
+  font-family:font-family: 'Roboto', sans-serif;
   line-height: 1.5;
   padding: 30px 20px;
   text-align: center;
   align-content: center;
+}
+body {
+  background-image: image(images/cloneprime.jpg);
 }
 
 /* heading text */
@@ -17,7 +20,7 @@ h3 {
 
 /* link text */
 a {
-color: blue;
+color: purple;
 text-decoration: none;
 }
 
